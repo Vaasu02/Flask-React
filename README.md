@@ -2,9 +2,6 @@
 
 Build a Friend Store with Python(Flask) and JavaScript(React)
 
-![Demo App](https://i.ibb.co/S6Xgb6c/Group-98.png)
-
-[Video Tutorial on Youtube](https://youtu.be/tWHXaSC2T_s)
 
 ### Table of Contents
 
@@ -110,4 +107,4 @@ flask run
 
 12. Open your browser and go to `http://localhost:5000/` to view the app.
 
-13. Don't forget to Like && Subscribe 🚀
+
